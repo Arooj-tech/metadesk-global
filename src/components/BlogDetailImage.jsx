@@ -1,5 +1,5 @@
 import React from "react";
-import blogHero from "../assets/blog/blogHero.png";
+import bloghero from "../assets/blog/bloghero.png";
 
 
 export default function BlogDetailImage(){
